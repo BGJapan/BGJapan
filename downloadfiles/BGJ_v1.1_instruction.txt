@@ -1,0 +1,23 @@
+<<< Instructions for Map Version 1.1 >>>
+
+ [Application used to make original map files]
+We used 'Adobe Illustrator CS6 (ver. 16.0.0) for Macintosh' to create the original map files. Based on the original files, we have made several files (below) which can be edited in different versions of Illustrator.
+
+[File types]
+Firstly, please check your Adobe Illustrator version number.
+We recommend using different versions of the map file according to the version of Illustrator that you use.
+
+If your version is Illustrator CS6 or CC (Illustrator 16 or later), please click & download 'BGJ_v1.1_JGD.ai' for the JGD Projection, 'BGJ_v1.1_WM.ai' for the WM Projection, or 'BGJ_v1.1_fig1_WM.ai' for figure 1 (WM projection).
+
+If your version is Illustrator CS or CS2-CS5 (Illustrator 11-15), please click & download 'BGJ_v1.1_pre_CS6_JGD.ai' for the JGD Projection, 'BGJ_v1.1_pre_CS6_WM.ai' for the WM Projection, or 'BGJ_v1.1_fig1_pre_CS6_WM.ai' for figure 1 (WM projection).
+
+We do not have file versions suitable for versions of Illustrator earlier than CS. 
+
+
+[Disclaimer]
+We hope the files will be useful to many people working on the geology of Japan. We, the authors, will also use them. However, we would like to make clear that we shall not be responsible for any possible loss or damage resulting from use of our website or the downloaded files. 
+
+
+[Update history]
+09/March/2020: Uploading files for Figure 1 (WM projection) on the Map version 1.1 section
+04/February/2020: Uploading Map Version 1.1
